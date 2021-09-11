@@ -4,4 +4,5 @@
 ## Assets Management Demo
 <p align="center">
 ![Assets Management](DemoAssetsManagements.gif)
+  <img src="DemoAssetsManagements.gif" >
 </p>  
